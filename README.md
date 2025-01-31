@@ -54,7 +54,7 @@ good friend medallion
 
 ### **🔹 Clone & Run**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/P2P-Direction-Finder.git
+git clone https://github.com/UCLcaozhiyu/CASA0015-Mobile-Systems-Interactions.git
 cd P2P-Direction-Finder
 flutter pub get
 flutter run
