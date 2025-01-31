@@ -21,13 +21,6 @@ good friend medallion
 
 ---
 
-## **📸 Screenshots**
-| Discover Mode | Tracking Mode | Close Encounter |
-|--------------|--------------|----------------|
-| ![Discover Mode](https://via.placeholder.com/300?text=Discover+Mode) | ![Tracking Mode](https://via.placeholder.com/300?text=Tracking+Mode) | ![Close Encounter](https://via.placeholder.com/300?text=Vibration+Alert) |
-
----
-
 ## **🛠️ How It Works**
 ### **1️⃣ Discovery via Bluetooth (BLE)**
 - One device **advertises** itself via BLE.
